@@ -1,0 +1,16 @@
+{
+  "name": "genpark-agentic-commerce-freight-nmfc-freight-all-kinds-fak-tier-negotiator-skill",
+  "version": "1.0.0",
+  "title": "LTL Freight All Kinds (FAK) Tier Negotiation & Spend Optimizer Skill",
+  "category": "Agentic Commerce (Logistics / Freight Contracting)",
+  "description": "Simulates historical LTL class distributions across actual NMFC densities, modeling optimal Freight All Kinds (FAK) class tiers (e.g. Class 150-300 rated as Class 100) to slash freight spend.",
+  "author": {
+    "name": "GenPark Ecosystem",
+    "url": "https://www.genpark.ai",
+    "linkedin": "https://www.linkedin.com/company/92955550"
+  },
+  "mcp_tools": [
+    "optimize_ltl_fak_tier_thresholds"
+  ],
+  "dependencies": []
+}
